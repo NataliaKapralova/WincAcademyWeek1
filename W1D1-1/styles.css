@@ -1,0 +1,85 @@
+
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+
+.container { 
+    display: grid ;
+    width: 550px;
+    height: 250px ;
+    background-color:white;
+    border-radius: 5px ;
+    margin: 20px ;
+    border: 2px solid lightgray;
+   
+}
+.box1 { 
+    height: 100% ;
+}
+
+.box2 { 
+    height: 60px  ;
+}
+
+.box3 { 
+    border-top: 2px solid lightgrey;
+    height: 100px ;
+    padding : 10px; } 
+
+
+
+.btngreen{ 
+    border: 2px solid green;
+    width: 49% ;
+    height: 70% ;
+    border-radius: 5px ;
+    color: green;
+    font-size: 30px ;
+    background-color: white;
+}
+
+
+.btnred{ 
+    border: 2px solid red;
+    width: 50% ;
+    height: 70% ; 
+    border-radius: 5px ;
+    color: red;
+    font-size: 30px ;
+    background-color: white;
+}
+
+
+h3 { 
+    font-size: 30px ;
+    font-family: 'Inter', sans-serif;
+    padding-top: 10px ;
+    padding-left: 10px ;
+}
+
+
+.pgrey{ color: grey;
+     font-family: 'Inter', sans-serif;
+     padding-top: 15px ;
+     padding-left: 10px ;
+    font-size: 20px ;}
+
+p { 
+    font-size: 18px ;
+    font-family: 'Inter', sans-serif;
+    padding-left: 10px ;
+    padding-top: 5px ;
+}
+
+
+    .avatar { 
+    width: 70x ;
+    height: 70px ;
+    float: right;
+    margin: 15px   ;
+}
+
+
